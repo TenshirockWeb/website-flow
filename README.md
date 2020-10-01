@@ -12,4 +12,4 @@ Bleu de Gex
 Bleu de la Chataigneraie	
 Bleu de laqueuille
 Bleu des Causses AOP	
-Bleu du Val d’Aillon
+Bleu du Val d’Aillonm
